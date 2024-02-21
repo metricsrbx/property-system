@@ -15,9 +15,7 @@ jobs:
         uses: ok-nick/setup-aftman@v0.4.2
       - name: Wally install
         run: |
-          cd src
           wally install
-          cd ..
       - name: Build place file
         run: |
           rojo build default.project.json -o  PropertySystem.rbxl
