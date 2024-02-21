@@ -1,0 +1,30 @@
+{
+  "name": "property-system",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "PropertyShared": {
+        "$path": "src/shared",
+        "Packages": {
+          "$path": "Packages"
+      }
+    }
+    },
+
+
+    "ServerScriptService": {
+      "PropertySystem": {
+        "$path": "src/server"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "PropertySystem": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}
