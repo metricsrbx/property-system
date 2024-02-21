@@ -7,5 +7,6 @@ realm = "shared"
 [dependencies]
 Component = "sleitnick/component@2.4.8"	
 Loader = "sleitnick/loader@2.0.0"
+
 TableUtil = "sleitnick/table-util@1.2.0"
 Janitor = "howmanysmall/janitor@1.15.7"
