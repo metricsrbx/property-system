@@ -34,7 +34,9 @@ For more help, check out [the Rojo documentation](https://rojo.space/docs).
 ### Basic Usage
 
 Components: Bind components to Roblox instances using the Component class and CollectionService tags and create functionality on-top of the existant system.
+
 Services: Services are singleton provider objects that serve a specific purpose on the server. An example is OwnershipService which manages the ownership of properties, you can link this to a MoneyService to charge for properties.
+
 Controllers: Controllers are singleton provider objects that serve a specific purpose on the client. An example is using a controller to have a UI to let others access your property.
 
 ## Contributing
