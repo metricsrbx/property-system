@@ -16,8 +16,6 @@ jobs:
       - name: Wally install
         run: |
           cd src
-          rm wally.toml
-          mv wally.toml
           wally install
           cd ..
       - name: Build place file
