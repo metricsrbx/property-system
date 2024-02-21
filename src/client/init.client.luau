@@ -4,7 +4,7 @@
 
 	Author: M_etrics
 	Date: 21/02/2024
-	Version: 1.0.0
+	Version: 1.1.0
 ]]
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
