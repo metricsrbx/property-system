@@ -20,7 +20,7 @@ jobs:
           cd ..
       - name: Build place file
         run: |
-          rojo build publish.project.json -o  PropertySystem.rbxl
+          rojo build default.project.json -o  PropertySystem.rbxl
       - name: Get version
         id: get_version
         # run: echo ::set-output name=VERSION::${GITHUB_REF#refs/tags/}
