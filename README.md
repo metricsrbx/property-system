@@ -41,4 +41,4 @@ Controllers: Controllers are singleton provider objects that serve a specific pu
 
 ## Contributing
 
-Contributions to Animalib are welcome! To contribute, please fork the repository and submit a pull request with your changes. Before submitting a pull request, please ensure that your code is following [Roblox Lua Style Guide](https://roblox.github.io/lua-style-guide/).
+Contributions are welcome! To contribute, please fork the repository and submit a pull request with your changes. Before submitting a pull request, please ensure that your code is following [Roblox Lua Style Guide](https://roblox.github.io/lua-style-guide/).
